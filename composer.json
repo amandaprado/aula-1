@@ -1,0 +1,11 @@
+{
+    "name": "aluno/aula-1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Amanda Prado",
+            "email": "amandalemosprado@hotmail.com"
+        }
+    ],
+    "require": {}
+}
